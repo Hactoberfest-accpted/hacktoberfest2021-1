@@ -21,13 +21,16 @@ keep in mind that repo has hacktoberfest topic..
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://raw.githubusercontent.com/keshavsingh4522/hacktoberfest2021/35fc6060c5ddead5792f29a2437fea160dbe9804/Assets/logo-hacktoberfest-full.f42e3b1.svg" width="30%">
-    </a>
-</p>
+   <!DOCTYPE html>
+<html>
+<body>
 
-<h1 align="center"> Hacktoberfest 2021 🎉</h1>
+<h2> 💻🎃𝐇𝐀𝐂𝐓𝐎𝐁𝐄𝐑𝐅𝐄𝐒𝐓 𝟐𝟎𝟐𝟐💻🎃</h2>
 
-<div align="center">
+<img src="https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg" alt="W3Schools.com" style="width:900px;height:350px;">
+
+</body>
+</html>
   
 <img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
